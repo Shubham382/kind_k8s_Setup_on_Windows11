@@ -49,7 +49,7 @@ The script automates the following:
 1. Clone the repository:
 
 ```bash
-git https://github.com/Shubham382/kind_k8s_Setup_on_Windows11.git
+git clone https://github.com/Shubham382/kind_k8s_Setup_on_Windows11.git
 cd kind_k8s_Setup_on_Windows11
 ```
 
