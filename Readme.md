@@ -49,8 +49,8 @@ The script automates the following:
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git https://github.com/Shubham382/kind_k8s_Setup_on_Windows11.git
+cd kind_k8s_Setup_on_Windows11
 ```
 
 2. Open **PowerShell as Administrator**
