@@ -28,7 +28,7 @@ The script automates the following:
 * Deploys a **multi-node cluster**:
 
   * 1 Control Plane
-  * 2 Worker Nodes
+  * 3 Worker Nodes
 * Verifies cluster status
 
 ---
@@ -176,4 +176,4 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-DevOps Engineer | Kubernetes Enthusiast
+DevOps Engineer | Shubham Mandavkar
