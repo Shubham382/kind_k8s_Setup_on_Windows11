@@ -128,6 +128,8 @@ nodes:
     image: kindest/node:v1.35.1
   - role: worker
     image: kindest/node:v1.35.1
+  - role: worker
+    image: kindest/node:v1.35.1
 ```
 
 ---
