@@ -54,6 +54,15 @@ nodes:
     image: kindest/node:v1.35.1
   - role: worker
     image: kindest/node:v1.35.1
+  - role: worker
+    image: kindest/node:v1.35.1
+    extraPortMappings:
+    - containerPort: 80 
+      hostPort: 80
+      protocol: tcp
+    - containerPort: 443
+      hostPort: 443
+      protocol: tcp
 "@
 
 $clusterFilePath = "$PWD\kind-cluster.yaml"
